@@ -1,0 +1,1 @@
+import{k as r,A as t,M as o}from"./index-14d2cc83.js";const a=e=>r({url:`${t}/registerNoVerifcode`,method:o.POST,data:e}),d=e=>r({url:`${t}/login`,method:o.POST,data:e}),n=e=>r({url:`${t}/idcode/execute`,method:o.POST,data:e});export{d as _,n as a,a as b};
