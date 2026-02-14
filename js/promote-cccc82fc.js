@@ -1,0 +1,1 @@
+import{k as r,A as t,M as e}from"./index-a1ce0b9b.js";const s=o=>r({url:`${t}/promote!getPromote.action`,method:e.GET,params:o}),u=o=>r({url:`${t}/user/getShare.action`,method:e.GET,loading:!0,params:o});export{s as _,u as a};

@@ -1,0 +1,1 @@
+import{cd as e,be as t,ce as g,cf as s,bi as r}from"./index-a1ce0b9b.js";const o=e("language",{persist:!0,state:()=>({language:t("lang")||g()}),actions:{[s](a){this.language=a,r("lang",a)}}});export{o as u};

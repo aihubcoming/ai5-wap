@@ -1,1 +1,1 @@
-const n="/syn/png/no-data-fc5efa8b.png";export{n as _};
+const a="/png/no-data-fc5efa8b.png";export{a as _};
